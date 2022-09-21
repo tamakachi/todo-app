@@ -1,9 +1,13 @@
 .App {
   text-align: center;
-  background-image: url('../design/images/bg-desktop-dark.jpg');
+ 
 }
 
 .mainColumn {
   padding-top:3rem;  
+  
 }
+
+.App h1{ font-family: 'Josefin Sans', sans-serif;}
+
 
